@@ -1,1 +1,1 @@
-Folder containing reports Advanced Analytics and SSRS
+Folder containing reports Advanced Analytics and SSRS.
